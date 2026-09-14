@@ -33,12 +33,3 @@ Aspiring **Backend / Fullstack Engineer**.
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=stanski-s&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanski-s&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
